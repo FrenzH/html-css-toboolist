@@ -18,8 +18,8 @@ header{
 
 h1 {
     display: inline-block;
-
-    text-height:20px;
+    font-weight: 900;
+    
     font-family: 'Roboto', sans-serif;
     vertical-align: middle;
     
@@ -53,6 +53,7 @@ nav{
     color:lightgray;
     background-color: white;
     border-style: double;
+    padding: 4px;
     
     
 }
@@ -82,4 +83,28 @@ ul{
     font-size: smaller;
     font-weight: 400;
     color: darkslategrey;
+}
+span{
+    background-color: aqua;
+    border-radius: 8px;
+    font-size: smaller;
+    border-width: 20px;
+    padding: 5px;
+    color: white;
+    font-weight: 300;
+}
+#span1{
+    background-color: darkorchid;
+}
+#span2{
+    background-color: forestgreen;
+}
+#span3{
+ background-color: goldenrod;
+}
+#span4{
+    background-color: deeppink;
+}
+#span5{
+    background-color: greenyellow;
 }
