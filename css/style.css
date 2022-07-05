@@ -7,8 +7,10 @@
 body{
     background-color: #f7f7f7;
 }
+
 header{
-    height: 150px;
+    height: 90px;
+    background-color: white;
 }
 
 
@@ -28,4 +30,7 @@ img{
     padding: 10px;
     
      
+}
+main{
+    background-color: white;
 }
