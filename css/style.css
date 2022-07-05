@@ -11,6 +11,7 @@ body{
 header{
     height: 90px;
     background-color: white;
+    
 }
 
 
@@ -20,7 +21,7 @@ h1 {
 
     text-height:20px;
     font-family: 'Roboto', sans-serif;
-    
+    vertical-align: middle;
     
 }
 
@@ -28,9 +29,36 @@ h1 {
 img{
     height: 80px;
     padding: 10px;
+    vertical-align: middle;
     
      
 }
 main{
     background-color: white;
+    max-width: 800px;
+    margin: auto;
+    margin-top: 30px;
+    
+    
+    ;
+}
+nav{
+    padding-bottom: 20px;
+}
+.button {
+    border-color: lightgrey;
+    font-size: small;
+    border-radius: 3px;
+    margin-top: 20px;
+    color:lightgray;
+    background-color: white;
+    border-style: double;
+    
+    
+}
+#button1{
+    background-color: darkturquoise;
+    color: white;
+    margin-left: 50px;
+    border-style: none;
 }
