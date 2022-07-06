@@ -35,7 +35,7 @@ img{
 }
 main{
     background-color: white;
-    max-width: 800px;
+    max-width: 80%;
     margin: auto;
     margin-top: 30px;
     
@@ -107,4 +107,9 @@ span{
 }
 #span5{
     background-color: greenyellow;
+}
+
+li{ 
+    padding-top: 15px;
+    padding-bottom: 15px;
 }
